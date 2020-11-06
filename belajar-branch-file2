@@ -1,6 +1,10 @@
 branch2 kalimat 1
   -sub kalimat 1
   -sub kalimat 2
+  -sub kalimat 3
 branch2 kalimat 1.5  
+  -sub kalimat 1.5 fitur 2
 branch2 kalimat 2
+  -sub kalimat 2 fitur 2
 branch2 kalimat 3
+  -sub kalimat 2 fitur 2
